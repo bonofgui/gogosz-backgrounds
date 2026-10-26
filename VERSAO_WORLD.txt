@@ -1,1 +1,1 @@
-WORLD 12.5
+WORLD 12.6
